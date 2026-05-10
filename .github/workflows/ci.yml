@@ -1,0 +1,26 @@
+name: healthcare-fwa-ci
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Generate synthetic data smoke test
+        run: python pipelines/python/generate_all_synthetic_data.py --providers 10 --members 30 --pharmacies 10 --claims 100 --seed 314
+      - name: Run tests
+        run: pytest
+      - name: Validate SQL files exist
+        run: test -f sql/views/vw_client_fwa_metrics.sql

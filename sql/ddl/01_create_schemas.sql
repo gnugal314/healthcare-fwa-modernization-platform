@@ -1,0 +1,12 @@
+CREATE SCHEMA bronze;
+GO
+CREATE SCHEMA silver;
+GO
+CREATE SCHEMA gold;
+GO
+CREATE SCHEMA semantic;
+GO
+CREATE SCHEMA audit;
+GO
+CREATE SCHEMA security;
+GO

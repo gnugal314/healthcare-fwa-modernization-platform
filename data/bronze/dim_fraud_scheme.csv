@@ -1,0 +1,10 @@
+scheme_key,scheme_code,scheme_name,severity_level,description
+1,UPCODING,Provider upcoding,High,Synthetic pattern for provider upcoding.
+2,DOCTOR_SHOPPING,Doctor shopping,High,Synthetic pattern for doctor shopping.
+3,EXCESSIVE_OPIOID,Excessive opioid dispensing,High,Synthetic pattern for excessive opioid dispensing.
+4,PHANTOM_BILLING,Phantom billing,Critical,Synthetic pattern for phantom billing.
+5,DUPLICATE_CLAIM,Duplicate claims,Medium,Synthetic pattern for duplicate claims.
+6,PHARMACY_COLLUSION,Pharmacy collusion,Critical,Synthetic pattern for pharmacy collusion.
+7,HIGH_DOLLAR_OUTLIER,High-dollar outlier claims,High,Synthetic pattern for high-dollar outlier claims.
+8,GEO_CLUSTER,Suspicious geographic concentration,Medium,Synthetic pattern for suspicious geographic concentration.
+9,RAPID_BURST,Rapid claim submission bursts,High,Synthetic pattern for rapid claim submission bursts.

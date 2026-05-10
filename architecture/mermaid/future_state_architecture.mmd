@@ -1,0 +1,17 @@
+flowchart TD
+    A[(SQL Server Source Systems)] --> B[SSIS Extract Packages]
+    A --> C[Python API/File Ingestion]
+    B --> D[(Bronze Raw Landing)]
+    C --> D
+    D --> E[Silver Validation + Conformance]
+    E --> F[(Gold Dimensional Warehouse)]
+    F --> G[Semantic SQL Views]
+    G --> H[Tableau Certified Data Sources]
+    H --> I[Executive Dashboards]
+    H --> J[Client Portal Dashboards]
+    H --> K[Scheduled PDF Reports]
+    E --> L[(Data Quality Results)]
+    F --> M[(Audit + Lineage)]
+    G --> M
+    N[ML Fraud Scoring] --> F
+    O[Kafka Streaming Alerts] --> N

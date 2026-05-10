@@ -1,0 +1,5 @@
+-- Sample inserts for gold.dim_client
+INSERT INTO gold.dim_client ([client_key], [client_id], [client_name], [client_type], [market_segment]) VALUES (1, '0053f3d6-48a6-4254-bbf5-9b8bd34461bd', 'Bryant and Sons Medicare', 'Medicare', 'Medicare');
+INSERT INTO gold.dim_client ([client_key], [client_id], [client_name], [client_type], [market_segment]) VALUES (2, 'fc82f061-0701-4d93-beb4-25a7d7d925e4', 'Mccoy LLC Medicaid', 'Medicaid', 'Medicaid');
+INSERT INTO gold.dim_client ([client_key], [client_id], [client_name], [client_type], [market_segment]) VALUES (3, 'f077fc49-d3ab-46c8-8c6c-e446ffc0d869', 'Morales Group Commercial', 'Commercial', 'Commercial');
+INSERT INTO gold.dim_client ([client_key], [client_id], [client_name], [client_type], [market_segment]) VALUES (4, 'c9518bf9-56cf-495e-8262-a479b72b884a', 'Beasley, Brown and Burton Employer Group', 'Employer Group', 'Employer Group');

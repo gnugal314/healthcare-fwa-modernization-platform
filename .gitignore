@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.log
+# Keep sample synthetic data in this repository; ignore large production files separately.
+data/production/

@@ -1,0 +1,9 @@
+[project]
+name = "healthcare-fwa-modernization-platform"
+version = "0.1.0"
+description = "Enterprise healthcare FWA analytics modernization reference platform"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

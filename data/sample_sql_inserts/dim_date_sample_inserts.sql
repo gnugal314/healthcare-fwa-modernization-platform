@@ -1,0 +1,26 @@
+-- Sample inserts for gold.dim_date
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250101, '2025-01-01', 2025, 1, 1, 'January', 0);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250102, '2025-01-02', 2025, 1, 1, 'January', 0);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250103, '2025-01-03', 2025, 1, 1, 'January', 0);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250104, '2025-01-04', 2025, 1, 1, 'January', 0);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250105, '2025-01-05', 2025, 1, 1, 'January', 1);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250106, '2025-01-06', 2025, 1, 1, 'January', 1);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250107, '2025-01-07', 2025, 1, 1, 'January', 1);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250108, '2025-01-08', 2025, 1, 1, 'January', 1);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250109, '2025-01-09', 2025, 1, 1, 'January', 1);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250110, '2025-01-10', 2025, 1, 1, 'January', 1);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250111, '2025-01-11', 2025, 1, 1, 'January', 1);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250112, '2025-01-12', 2025, 1, 1, 'January', 2);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250113, '2025-01-13', 2025, 1, 1, 'January', 2);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250114, '2025-01-14', 2025, 1, 1, 'January', 2);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250115, '2025-01-15', 2025, 1, 1, 'January', 2);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250116, '2025-01-16', 2025, 1, 1, 'January', 2);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250117, '2025-01-17', 2025, 1, 1, 'January', 2);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250118, '2025-01-18', 2025, 1, 1, 'January', 2);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250119, '2025-01-19', 2025, 1, 1, 'January', 3);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250120, '2025-01-20', 2025, 1, 1, 'January', 3);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250121, '2025-01-21', 2025, 1, 1, 'January', 3);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250122, '2025-01-22', 2025, 1, 1, 'January', 3);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250123, '2025-01-23', 2025, 1, 1, 'January', 3);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250124, '2025-01-24', 2025, 1, 1, 'January', 3);
+INSERT INTO gold.dim_date ([date_key], [full_date], [calendar_year], [calendar_quarter], [month_number], [month_name], [week_of_year]) VALUES (20250125, '2025-01-25', 2025, 1, 1, 'January', 3);

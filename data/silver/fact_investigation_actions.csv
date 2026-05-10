@@ -1,0 +1,85 @@
+action_key,action_id,detection_id,action_date_key,investigator_team,action_type,action_status,stopped_payment_amount,recovered_amount,notes
+1,3c038b28-9e18-4607-bf43-d3f54aa14bf9,ebb3c14e-a586-457a-8bfa-29dfca2b4275,20250906,Medicaid Program Integrity,Recovery Letter,Closed,331.88,119.34,Synthetic investigation action.
+2,f104b210-d77d-4cab-b2c9-4f43d7c7257f,02a573d8-97d8-482b-aba7-f9e78b102bc8,20260529,Client Integrity,Provider Outreach,Closed,7.54,8.8,Synthetic investigation action.
+3,69d2bc08-9adc-4441-8479-f481aaebb25f,c49c2ee3-64cb-435f-9797-743f4fd95d22,20251126,Client Integrity,Payment Hold,Closed,55.09,52.26,Synthetic investigation action.
+4,dcd53121-c232-4e30-8570-02a661a01fc4,4e171f23-6ef6-4916-a59e-d367e1ba6220,20260105,Client Integrity,Recovery Letter,Closed,182.03,73.99,Synthetic investigation action.
+5,a595e8f6-1183-443a-a2d3-4d3b03ee4f5a,12b2dcbf-611f-4bdc-9a19-269aeb262afa,20250827,Client Integrity,Provider Outreach,Monitoring,0.0,0.0,Synthetic investigation action.
+6,cc40d3c8-625b-4922-b3a0-793c2b1bb8bf,c11b3cb6-612c-489c-bcdb-d9fff4fc0aee,20250909,Medicaid Program Integrity,Payment Hold,Monitoring,0.0,0.0,Synthetic investigation action.
+7,85a4a370-4f52-4d19-a1c8-3c91c4eb3e8d,af54c881-90d1-42ff-8764-38b6233505c7,20251204,SIU Pharmacy,Provider Outreach,Closed,24.77,12.84,Synthetic investigation action.
+8,c0275348-8a75-4350-948e-26957088147d,9c37a375-25bd-472c-9660-dc63e963e300,20260826,Medicaid Program Integrity,Audit Request,Open,0.0,0.0,Synthetic investigation action.
+9,e9d7f63e-af22-4604-a947-70c0194fa336,92222447-dcab-4d23-b443-62681e6c59d2,20260412,SIU Provider,Audit Request,Monitoring,0.0,0.0,Synthetic investigation action.
+10,c6c80307-6b7c-454b-be5b-03987a29c2dd,0c08e783-8a65-4f9a-86e8-3c82bc206b24,20260607,Client Integrity,Referral,Closed,0.0,0.0,Synthetic investigation action.
+11,a23fd9be-f9b6-4e34-8131-f8119201cdb3,aa3ed212-5b21-4ed6-b130-81aede3b897f,20260609,SIU Provider,Referral,Monitoring,0.0,0.0,Synthetic investigation action.
+12,e25137bb-8f42-42a3-9d71-6cd3e01c77d2,b30ed1ec-37dc-407f-abfa-dcede9cc2fd2,20260124,SIU Provider,Provider Outreach,Monitoring,0.0,0.0,Synthetic investigation action.
+13,d3430518-9ea8-497f-a591-acb2ce896a69,82ac7cf0-7642-4652-9711-8c871dc15bb1,20260217,Client Integrity,Recovery Letter,Monitoring,0.0,0.0,Synthetic investigation action.
+14,cdd64c4b-8e85-4785-9c2f-3d7c09218205,f3df30f5-73d7-436f-9e5a-8e47c539b10d,20260809,SIU Pharmacy,Provider Outreach,Monitoring,0.0,0.0,Synthetic investigation action.
+15,fc82a7d4-4270-41f2-aed1-6589a9a21e29,3cd9e43e-aa4c-4a83-b90c-85a3e928ce72,20260913,SIU Provider,Provider Outreach,Monitoring,0.0,0.0,Synthetic investigation action.
+16,4c089fe3-4e3c-471b-8aae-d0f307ab5658,e79baf1f-36bb-4642-9b72-d2af254ac0fe,20260823,Client Integrity,Provider Outreach,Closed,287.5,94.04,Synthetic investigation action.
+17,0224e7b6-60a3-4efb-884d-c2f841567064,2893dcaf-86e9-4be7-9d8e-fe24082b89e8,20260919,Medicaid Program Integrity,Referral,Closed,367.31,72.91,Synthetic investigation action.
+18,f97bca80-9046-4a24-9421-99702a154b3a,92a0bc4f-eb41-404d-8263-30504bcbaa85,20250510,Medicaid Program Integrity,Referral,Monitoring,0.0,0.0,Synthetic investigation action.
+19,2e40abfd-6e69-41e1-ae0b-5f71a69303ab,c0963b27-a67a-4e7f-9f6b-ec14241e3cb6,20250220,Client Integrity,Recovery Letter,Closed,116.46,43.4,Synthetic investigation action.
+20,68484dbf-f076-46c6-bee9-9f2cf374a7ba,da71d4fe-ae1c-4b0f-ab87-1c455563bca1,20250813,SIU Pharmacy,Provider Outreach,Closed,197.03,26.2,Synthetic investigation action.
+21,6177c7ab-4fc8-4125-92d5-279d7cb4ee96,eaa4c6ea-b2c0-4df5-a8f8-78e40f48dbc0,20251003,Medicaid Program Integrity,Audit Request,Closed,29.96,33.18,Synthetic investigation action.
+22,9cb69f14-75c7-4b71-9b30-9ab98ce52593,7fcd058c-8453-47c1-8ac5-72bf0113160a,20250907,SIU Provider,Audit Request,Closed,80.4,80.72,Synthetic investigation action.
+23,549e47e1-2b5d-48aa-9ace-7133bd045f64,a84dbe2f-6c0c-4f43-9238-12f3b5cb8e7e,20260312,SIU Pharmacy,Audit Request,Closed,63.22,45.91,Synthetic investigation action.
+24,e2124b66-22a6-402b-8ba9-e0284784821c,57936d94-580e-4b7e-86c0-b860ba4a0edb,20250205,Medicaid Program Integrity,Provider Outreach,Closed,0.0,0.0,Synthetic investigation action.
+25,13df9db8-ad91-4977-8122-f6c0148bb0ff,5126b134-b2ac-41ab-8997-fa7173163769,20250724,Medicaid Program Integrity,Audit Request,Closed,0.0,0.0,Synthetic investigation action.
+26,11369757-6634-4570-a557-4351dee95141,def966c0-0041-48c6-804a-d5a6141d0442,20260725,Client Integrity,Referral,Closed,50.2,18.14,Synthetic investigation action.
+27,74345c0e-b09a-48c2-a53d-2f80d342450f,9abe5dde-ee55-4ffe-91d6-2b189da650ca,20250803,Medicaid Program Integrity,Provider Outreach,Open,0.0,0.0,Synthetic investigation action.
+28,ecd4c9df-2f01-4c78-a366-edb8b784146b,bc12d0d0-4a17-4990-b8e4-f353651c008c,20260819,Medicaid Program Integrity,Audit Request,Open,0.0,0.0,Synthetic investigation action.
+29,ad96d6ef-8508-4826-a018-e5e431b142cb,8c2294d4-a5d0-4826-b527-be94cd4e4e94,20250604,SIU Pharmacy,Payment Hold,Closed,369.19,70.7,Synthetic investigation action.
+30,99cde188-6921-4a3e-a2fb-d00cf000d6e4,f8c3b479-fd4e-4fa1-97d7-4b05a6e3ebee,20260825,Medicaid Program Integrity,Audit Request,Open,0.0,0.0,Synthetic investigation action.
+31,138c39c9-e3f8-4589-8c56-01771fddff90,8ee60119-54b9-42a8-bf4d-def5a5354d1f,20250918,Medicaid Program Integrity,Audit Request,Monitoring,0.0,0.0,Synthetic investigation action.
+32,814d6e9f-a7eb-4f7e-8328-446edb03d9b1,6da8629d-0773-40d7-ba17-32d7c4ca4584,20260121,Medicaid Program Integrity,Payment Hold,Open,0.0,0.0,Synthetic investigation action.
+33,38845899-0879-469e-bfb3-025bb6b6fc88,ad6095ed-2c47-464d-8930-3d43dc2687b9,20260907,SIU Provider,Audit Request,Monitoring,0.0,0.0,Synthetic investigation action.
+34,6655b034-09b3-45d9-a3b2-3416080ecd09,1bb915eb-b717-446c-a07d-0ce106984ddc,20261124,Medicaid Program Integrity,Provider Outreach,Closed,27.99,11.67,Synthetic investigation action.
+35,3c7b0977-6e64-4ccf-9c6d-0d6509be0473,63f7b897-aa80-4288-9788-ef9bfc185577,20250817,SIU Pharmacy,Payment Hold,Monitoring,0.0,0.0,Synthetic investigation action.
+36,e02e98bc-4246-4bc8-88fc-4c749898990d,0f4cf608-62b0-44ed-bb9e-fa44298f8266,20250227,Medicaid Program Integrity,Recovery Letter,Monitoring,0.0,0.0,Synthetic investigation action.
+37,8eddfaa8-c8cf-47d2-8379-9fe2969b6c33,3c2fa2e2-8d3b-42b9-9413-b87a1ff67b41,20250326,SIU Provider,Payment Hold,Monitoring,0.0,0.0,Synthetic investigation action.
+38,5422a037-9f91-47e3-946f-883ff1dda709,330c921b-401f-4c7a-90a9-73d1bdd772bb,20260613,Medicaid Program Integrity,Audit Request,Closed,332.87,37.79,Synthetic investigation action.
+39,a537b1cd-0225-4e61-9cd2-e7ddf853c197,8168e5fe-cabd-4bd7-9ba0-0772d2acc8d3,20260613,SIU Pharmacy,Audit Request,Closed,84.59,26.21,Synthetic investigation action.
+40,dbdd906f-a9f4-4fad-bbe5-ee7a61a99e81,df1b50f8-3f8f-444f-ad97-e999f8d538ed,20260623,SIU Provider,Payment Hold,Closed,88.23,34.2,Synthetic investigation action.
+41,b40ce557-b636-4d82-bf08-96665c66f2ab,22612125-4c8d-48af-9d9f-a717c297d0a1,20251123,Medicaid Program Integrity,Provider Outreach,Closed,1725.38,912.89,Synthetic investigation action.
+42,50b84ff3-410a-4dc2-801f-f8c1c6c78c56,63ff1d66-83ea-45e2-868f-763e4c513a52,20260104,Medicaid Program Integrity,Provider Outreach,Monitoring,0.0,0.0,Synthetic investigation action.
+43,193dc997-40dd-44a6-a6d1-5ef412ef5e52,334db003-d85a-4a38-96cd-8eeffdba8392,20250718,SIU Pharmacy,Audit Request,Open,0.0,0.0,Synthetic investigation action.
+44,1a23f630-be87-40e1-b6a4-cc78c90961d8,7988b09b-641f-459a-a69a-76ebaf42c69b,20250627,Client Integrity,Recovery Letter,Open,0.0,0.0,Synthetic investigation action.
+45,ae53de79-09b4-4e0d-9d34-fd5848efa50f,e9fc4851-5175-48fd-9e34-f08e98695a87,20250624,Client Integrity,Payment Hold,Closed,91.0,32.92,Synthetic investigation action.
+46,65c976c3-de8b-4a76-9bd5-691940973dce,15caed86-c148-477b-8e96-e96bdf2def11,20251128,SIU Provider,Payment Hold,Monitoring,0.0,0.0,Synthetic investigation action.
+47,d65ba110-9f27-470d-9bb1-ed678a21062d,ea88b0b8-b8dc-4804-bb21-0b2747a74858,20250120,SIU Provider,Payment Hold,Monitoring,0.0,0.0,Synthetic investigation action.
+48,7cd84ae8-9ee7-4b70-bf6c-d9f7415f75d5,1a5cdc6d-3fb2-4238-a9f2-16dbeb898610,20260501,SIU Provider,Provider Outreach,Monitoring,0.0,0.0,Synthetic investigation action.
+49,38805004-41b3-4722-b6d0-395feeef40f1,3e3d1fdc-a122-48f2-8a52-74c338bb012d,20260223,SIU Provider,Payment Hold,Monitoring,0.0,0.0,Synthetic investigation action.
+50,3a68a6cb-b968-499c-b576-b95fdb8df61f,08e5d164-aab9-4dbd-b4b1-3fee890dd039,20260731,SIU Pharmacy,Payment Hold,Closed,196.35,19.32,Synthetic investigation action.
+51,ae84a106-dabe-495d-83e9-4c53dff07ea5,8b308d08-e7a3-483d-9c95-ff286477c202,20260228,SIU Pharmacy,Referral,Closed,183.02,17.76,Synthetic investigation action.
+52,cda2950d-30d4-408b-94ba-4df5e2b6d1e7,4bcd40f1-c061-41b3-9550-0f649ddddf13,20250418,SIU Pharmacy,Audit Request,Closed,63.99,30.13,Synthetic investigation action.
+53,be08fdd3-9ec4-431b-a6a1-1418c5d79c93,f70f79a2-818f-401e-b232-45a4db9eec12,20250408,SIU Pharmacy,Provider Outreach,Closed,527.06,87.66,Synthetic investigation action.
+54,b2468e7c-bc9a-407d-a61b-ab61dcaca186,12aca6f0-b543-4985-b191-bd1eb9d40528,20260211,Medicaid Program Integrity,Recovery Letter,Closed,209.75,154.08,Synthetic investigation action.
+55,cf63d166-269c-49e9-a146-f35ef58076dc,769e1636-d3aa-4314-ae19-2f0f6fa9e91e,20260609,Medicaid Program Integrity,Payment Hold,Monitoring,0.0,0.0,Synthetic investigation action.
+56,11fe32ae-ed36-4152-a8f3-7cba5863f8cf,39c7ce6b-2e6c-4273-ab12-4579d3cf4aef,20251213,Medicaid Program Integrity,Payment Hold,Monitoring,0.0,0.0,Synthetic investigation action.
+57,7a17f8c5-96cd-4aef-9c47-8ab18ea9555b,5ed18476-4beb-45b8-ab83-08f52610161d,20260814,Client Integrity,Payment Hold,Closed,76.09,13.55,Synthetic investigation action.
+58,77f862a7-cc1b-4215-a2e4-03e49581315b,f8900522-107a-4345-9111-c38fb08eb3c1,20260714,Medicaid Program Integrity,Recovery Letter,Closed,102.7,44.88,Synthetic investigation action.
+59,1133bf01-8b1f-4212-90a1-95018716fbce,3cfdbb32-1f8f-4001-a2e2-99d6f8aae90c,20260729,Client Integrity,Payment Hold,Closed,107.45,17.18,Synthetic investigation action.
+60,6b99c881-56c6-41dc-86c3-a8d519b27f9a,12703316-8223-4880-bf1a-9641bf8ab8b3,20251122,Medicaid Program Integrity,Provider Outreach,Closed,25.9,35.85,Synthetic investigation action.
+61,98a68be4-5be3-407a-abea-9c4296774ae2,d0067482-e17a-4d2a-a8d9-d07adf4f8cc2,20260807,Medicaid Program Integrity,Provider Outreach,Closed,127.1,51.05,Synthetic investigation action.
+62,fa4e2240-d14d-4717-8a69-16971acb7234,c29e661c-bcd0-4445-9314-e9106d687b87,20260728,Client Integrity,Audit Request,Open,0.0,0.0,Synthetic investigation action.
+63,d0962a2f-24fe-4ef7-b227-f3151ed9cf87,0419d68f-e282-4db2-b7f8-ed5a965531fc,20260226,SIU Pharmacy,Audit Request,Closed,81.3,30.63,Synthetic investigation action.
+64,1db6e209-c4d6-4e72-b4f9-a54ffbcf9883,bf44d78e-90c9-4022-b192-56ce64f09c94,20260921,Client Integrity,Referral,Closed,316.26,118.88,Synthetic investigation action.
+65,9ca93bff-f5ca-4d87-a394-431ee994ca1b,128b1112-2659-4631-ae63-fefd9f811565,20260330,SIU Pharmacy,Payment Hold,Open,0.0,0.0,Synthetic investigation action.
+66,ea45da96-49bc-49bb-961a-eccc561dba4b,84f46dd9-6d34-4348-8c81-30463e47fb03,20261216,Client Integrity,Audit Request,Monitoring,0.0,0.0,Synthetic investigation action.
+67,9323e524-32c2-4dd6-9cb8-0efe86f99d95,32e91dd6-8c9d-48a2-9159-aa6bd6943baa,20260405,Medicaid Program Integrity,Referral,Open,0.0,0.0,Synthetic investigation action.
+68,e50531fc-038c-4b26-80bf-01aecdd4e170,7b27ef8c-9281-44ab-ac28-9eafd347f765,20251231,SIU Pharmacy,Provider Outreach,Closed,0.0,0.0,Synthetic investigation action.
+69,bc037fbe-120e-446a-aba2-42e8e245a688,428588d3-e854-4309-aa84-d06174784988,20260617,SIU Pharmacy,Recovery Letter,Closed,162.72,79.19,Synthetic investigation action.
+70,b64e9170-543e-42da-872e-8ac4cc241313,b66b3f26-bccb-49e5-95bb-70dd5c6af392,20260814,Client Integrity,Audit Request,Closed,97.75,12.6,Synthetic investigation action.
+71,cb1cf7a5-3cfa-4125-8bd7-60602e6ffa34,5b0d5017-b5a2-41ba-902f-d28a52be82be,20260116,Medicaid Program Integrity,Provider Outreach,Closed,59.46,15.35,Synthetic investigation action.
+72,67ae176f-2a7c-4ae8-a168-b24298f6b57b,aa6e9658-ddc3-4ce5-85a7-84e3a42ff5f6,20250902,SIU Provider,Audit Request,Closed,0.0,0.0,Synthetic investigation action.
+73,716895ca-2fdf-4f4e-8b7a-5f47a273ddd5,6973514e-4127-4246-8a16-5a84f9b3119d,20250510,SIU Provider,Audit Request,Closed,0.0,0.0,Synthetic investigation action.
+74,89d59304-4229-48f8-98bd-708c0a23be7e,616b29e4-60c0-41fc-9100-d7fdcd284923,20251027,SIU Pharmacy,Referral,Closed,105.36,41.98,Synthetic investigation action.
+75,dd66bd63-b1e4-479f-8d91-da8d90027a19,8d1f0a46-aa5f-4bae-8238-1379e5c98615,20250210,SIU Pharmacy,Provider Outreach,Monitoring,0.0,0.0,Synthetic investigation action.
+76,0c0c81b5-b630-4bae-aeec-a198582b57c5,2983ffb3-e54f-42c6-b433-f052ddb7bff2,20250919,SIU Pharmacy,Provider Outreach,Open,0.0,0.0,Synthetic investigation action.
+77,853897fd-2d10-4c40-98e1-e5832417bcee,a5b2140f-f7f4-4e24-b4d2-8bff7e926579,20261126,Client Integrity,Audit Request,Monitoring,0.0,0.0,Synthetic investigation action.
+78,c5ec9662-2ebf-4365-b4ed-db9aeb98082a,12caa92a-2773-47e7-8ebe-cec9c4e0cad1,20250401,Client Integrity,Referral,Closed,229.07,183.22,Synthetic investigation action.
+79,03a813bb-d998-428c-a51f-6292e450225c,dea1e5ba-a994-46bd-90b0-6daee19c1260,20261005,SIU Provider,Provider Outreach,Monitoring,0.0,0.0,Synthetic investigation action.
+80,0a0eeed3-86fa-4742-8347-05398e86dcc7,c625c46c-ecea-461d-9dfb-081ee41dc507,20250505,SIU Provider,Referral,Closed,127.58,11.97,Synthetic investigation action.
+81,c3283b54-009e-4ef4-b90c-1247faf28ffd,64bf5a9e-9e28-4598-b5fe-a1ff9f3881b5,20260909,SIU Provider,Payment Hold,Monitoring,0.0,0.0,Synthetic investigation action.
+82,80535826-f27d-4c61-9d12-7994cb81e9c4,83601861-4155-43d8-bb28-254d80ed89a5,20251211,Client Integrity,Recovery Letter,Closed,451.37,205.97,Synthetic investigation action.
+83,f13226bb-84d7-485b-9d8a-fc3ad5bb1a07,7df0917f-ae18-42cd-827e-1d3cecfcf874,20260123,SIU Provider,Recovery Letter,Open,0.0,0.0,Synthetic investigation action.
+84,9205b313-c7ea-46c5-8e6a-3c3e135a9fe4,f2e0b666-21b7-4a9b-8438-0de86cf70d9b,20251031,SIU Provider,Provider Outreach,Closed,54.28,6.76,Synthetic investigation action.

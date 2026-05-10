@@ -1,0 +1,10 @@
+-- Sample inserts for gold.dim_fraud_scheme
+INSERT INTO gold.dim_fraud_scheme ([scheme_key], [scheme_code], [scheme_name], [severity_level], [description]) VALUES (1, 'UPCODING', 'Provider upcoding', 'High', 'Synthetic pattern for provider upcoding.');
+INSERT INTO gold.dim_fraud_scheme ([scheme_key], [scheme_code], [scheme_name], [severity_level], [description]) VALUES (2, 'DOCTOR_SHOPPING', 'Doctor shopping', 'High', 'Synthetic pattern for doctor shopping.');
+INSERT INTO gold.dim_fraud_scheme ([scheme_key], [scheme_code], [scheme_name], [severity_level], [description]) VALUES (3, 'EXCESSIVE_OPIOID', 'Excessive opioid dispensing', 'High', 'Synthetic pattern for excessive opioid dispensing.');
+INSERT INTO gold.dim_fraud_scheme ([scheme_key], [scheme_code], [scheme_name], [severity_level], [description]) VALUES (4, 'PHANTOM_BILLING', 'Phantom billing', 'Critical', 'Synthetic pattern for phantom billing.');
+INSERT INTO gold.dim_fraud_scheme ([scheme_key], [scheme_code], [scheme_name], [severity_level], [description]) VALUES (5, 'DUPLICATE_CLAIM', 'Duplicate claims', 'Medium', 'Synthetic pattern for duplicate claims.');
+INSERT INTO gold.dim_fraud_scheme ([scheme_key], [scheme_code], [scheme_name], [severity_level], [description]) VALUES (6, 'PHARMACY_COLLUSION', 'Pharmacy collusion', 'Critical', 'Synthetic pattern for pharmacy collusion.');
+INSERT INTO gold.dim_fraud_scheme ([scheme_key], [scheme_code], [scheme_name], [severity_level], [description]) VALUES (7, 'HIGH_DOLLAR_OUTLIER', 'High-dollar outlier claims', 'High', 'Synthetic pattern for high-dollar outlier claims.');
+INSERT INTO gold.dim_fraud_scheme ([scheme_key], [scheme_code], [scheme_name], [severity_level], [description]) VALUES (8, 'GEO_CLUSTER', 'Suspicious geographic concentration', 'Medium', 'Synthetic pattern for suspicious geographic concentration.');
+INSERT INTO gold.dim_fraud_scheme ([scheme_key], [scheme_code], [scheme_name], [severity_level], [description]) VALUES (9, 'RAPID_BURST', 'Rapid claim submission bursts', 'High', 'Synthetic pattern for rapid claim submission bursts.');
