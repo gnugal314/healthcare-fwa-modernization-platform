@@ -26,6 +26,25 @@ Tableau Server / Embedded Analytics / Scheduled Distribution
 Secure Client Delivery
 ```
 
+## Platform Demonstration
+
+The platform has been deployed locally using:
+
+- Docker Desktop
+- SQL Server 2022
+- VS Code MSSQL Extension
+- Python ETL pipelines
+- SQLAlchemy + pyodbc
+- Synthetic healthcare fraud datasets
+
+### Warehouse Schema Explorer
+
+![Schema Explorer](docs/images/schema_explorer.png)
+
+### Warehouse Validation
+
+![Warehouse Row Counts](docs/images/row_counts.png)
+
 ## Business Domain
 
 Fraud, Waste, and Abuse reporting supports Special Investigations Units, payer operations, pharmacy analytics, compliance, and client reporting. The platform answers questions such as:
