@@ -1,3 +1,9 @@
+![SQL Server](https://img.shields.io/badge/SQL_Server-2022-red)
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
+![Tableau](https://img.shields.io/badge/Tableau-Enterprise_Analytics-orange)
+![Healthcare](https://img.shields.io/badge/Domain-Healthcare-green)
+
 # Healthcare FWA Modernization Platform
 
 Enterprise-grade reference repository for modernizing a legacy healthcare Fraud, Waste, and Abuse reporting ecosystem from:
@@ -36,14 +42,6 @@ The platform has been deployed locally using:
 - Python ETL pipelines
 - SQLAlchemy + pyodbc
 - Synthetic healthcare fraud datasets
-
-### Warehouse Schema Explorer
-
-![Schema Explorer](docs/images/schema_explorer.png)
-
-### Warehouse Validation
-
-![Warehouse Row Counts](docs/images/row_counts.png)
 
 ## Business Domain
 
