@@ -4,10 +4,10 @@ import pandas as pd
 from sqlalchemy import create_engine, text
 
 SERVER = "localhost"
-PORT = "1433"
+PORT = "9999"
 DATABASE = "HealthcareFWA"
-USERNAME = "sa"
-PASSWORD = "FwaPlatform2026!"  # <-- replace this
+USERNAME = "username"
+PASSWORD = "Password"  # <-- replace this
 DRIVER = "ODBC Driver 18 for SQL Server"
 
 DATA_DIR = Path("data/gold")
