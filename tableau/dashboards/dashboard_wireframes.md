@@ -56,10 +56,10 @@
 │ Enterprise Exposure Monitoring                                               │
 └──────────────────────────────────────────────────────────────────────────────┘
 
-┌────────────────┐ ┌────────────────┐ ┌────────────────┐ ┌────────────────┐
+┌────────────────┐ ┌────────────────┐ ┌────────────────┐ ┌────────────────-┐
 │ Total Exposure │ │ Exposure Trend │ │ Avg Exposure   │ │ Exposure Growth │
 │ $14.2M         │ │ +12.8%         │ │ $78K           │ │ +4.2% MoM       │
-└────────────────┘ └────────────────┘ └────────────────┘ └────────────────┘
+└────────────────┘ └────────────────┘ └────────────────┘ └────────────────-┘
 
 ┌────────────────────────────────────┐ ┌─────────────────────────────────────┐
 │ Monthly Exposure Trend             │ │ Exposure by Fraud Scheme            │
@@ -116,7 +116,7 @@
 │ - Provider Name                                                              │
 │ - Risk Score                                                                 │
 │ - Exposure Amount                                                            │
-│ - Specialty                                                                   │
+│ - Specialty                                                                  │
 └──────────────────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────────────┐ ┌─────────────────────────────────────┐
@@ -131,11 +131,11 @@
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │ Provider Network Risk Distribution                                           │
 │                                                                              │
-│ Scatter Plot                                                                  │
-│ - X = Exposure                                                                │
-│ - Y = Recoveries                                                              │
-│ - Color = Risk Score                                                          │
-│ - Size = Claims                                                               │
+│ Scatter Plot                                                                 │
+│ - X = Exposure                                                               │
+│ - Y = Recoveries                                                             │
+│ - Color = Risk Score                                                         │
+│ - Size = Claims                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -217,9 +217,9 @@
 │ Geographic Exposure Map                                                      │
 │                                                                              │
 │ Client-specific regional fraud intelligence                                  │
-│ - Exposure                                                                    │
-│ - Risk                                                                         │
-│ - Provider concentration                                                      │
+│ - Exposure                                                                   │
+│ - Risk                                                                       │
+│ - Provider concentration                                                     │
 └──────────────────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────────────┐ ┌─────────────────────────────────────┐
@@ -247,7 +247,7 @@
 * Interactive global filters
 * High-information visual hierarchy
 
-## Potential Global Filters
+## Global Filters
 
 * Market Segment
 * Client Name
@@ -257,7 +257,7 @@
 * Claim Type
 * Date Range
 
-## Potential Tableau Architecture
+## Tableau Architecture
 
 ```text
 SQL Server Warehouse
