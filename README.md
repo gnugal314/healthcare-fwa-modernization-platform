@@ -170,6 +170,14 @@ Dimensions:
 | `dim_fraud_scheme` | Fraud typology and scheme severity |
 | `dim_date` | Calendar attributes for trend reporting |
 
+## Warehouse Load Validation
+
+Synthetic healthcare fraud analytics datasets were generated using Python, Faker, pandas, and NumPy, then loaded into the Gold dimensional warehouse.
+
+The following validation demonstrates successful warehouse population across dimensions and fact tables.
+
+![Warehouse Row Counts](docs/images/row_counts.png)
+
 ## Bronze / Silver / Gold Medallion Architecture
 
 | Layer | Description | Example Contents |
@@ -177,6 +185,19 @@ Dimensions:
 | Bronze | Immutable source-aligned extracts | Raw SQL Server claims, Access query extracts, export metadata |
 | Silver | Cleaned and conformed records | Deduplicated claims, standardized client/provider/pharmacy IDs |
 | Gold | Dimensional and KPI-ready data | Star schema facts/dimensions, risk summaries, client aggregates |
+
+## Warehouse Schema Explorer
+
+The SQL Server warehouse is organized using a medallion-style architecture with separate schemas for:
+
+- Bronze raw ingestion
+- Silver standardized/conformed records
+- Gold dimensional analytics
+- Semantic KPI abstraction views
+
+The warehouse was deployed locally using Docker + SQL Server 2022 and validated through VS Code MSSQL tooling.
+
+![Schema Explorer](docs/images/schema_explorer.png)
 
 ## ETL/ELT Modernization Strategy
 
