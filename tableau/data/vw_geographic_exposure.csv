@@ -1,0 +1,6 @@
+region_key,state_code,county,market,latitude,longitude,total_claims,total_billed_amount,total_paid_amount,total_fraud_detections,suspected_exposure_amount,avg_risk_score,stopped_payment_amount,recovered_amount
+3,TX,Harris,TX-Harris Market,29.760400,-95.369800,123,1908047.40,990866.40,30,1854238.53,0.542966,423760.83,163949.16
+1,MO,St. Louis,MO-St. Louis Market,38.627000,-90.199400,95,875983.02,422016.54,22,542718.85,0.644577,119814.95,60172.05
+4,FL,Miami-Dade,FL-Miami-Dade Market,25.761700,-80.191800,94,379399.90,198742.83,11,220805.06,0.427036,68829.62,22503.60
+5,CA,Los Angeles,CA-Los Angeles Market,34.052200,-118.243700,90,213362.64,106972.20,6,177372.90,0.459133,65516.40,12990.60
+2,IL,Cook,IL-Cook Market,41.878100,-87.629800,103,677744.10,308963.10,15,343509.12,0.487613,170010.77,65515.21

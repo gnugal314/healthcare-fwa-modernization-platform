@@ -1,0 +1,5 @@
+client_name,client_type,market_segment,total_claims,total_billed_amount,total_allowed_amount,total_paid_amount,total_denied_amount,total_fraud_detections,total_suspected_exposure_amount,avg_risk_score,total_stopped_payment_amount,total_recovered_amount
+"Beasley, Brown and Burton Employer Group",Employer Group,Employer Group,136,1210813.59,800376.15,553697.55,133889.28,21,655254.80,0.527928,225726.00,65406.48
+Morales Group Commercial,Commercial,Commercial,153,1277210.60,874811.40,651378.20,80317.00,20,1060978.50,0.544240,243188.91,77854.05
+Mccoy LLC Medicaid,Medicaid,Medicaid,158,2714159.52,1865846.52,1414038.24,157525.92,36,2512305.86,0.573150,648495.20,292988.88
+Bryant and Sons Medicare,Medicare,Medicare,58,152191.41,98365.12,73436.44,9916.13,7,45794.48,0.375914,26887.64,8234.84
