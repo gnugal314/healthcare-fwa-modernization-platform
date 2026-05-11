@@ -12,7 +12,7 @@ dist/
 build/
 pip-wheel-metadata/
 
-# Virtual Environments
+# Virtual environments
 .venv/
 venv/
 env/
@@ -22,107 +22,138 @@ ENV/
 .ipynb_checkpoints/
 
 # =========================================================
-# VS Code
+# Local IDE / OS
 # =========================================================
 .vscode/
-
-# =========================================================
-# macOS
-# =========================================================
 .DS_Store
+Thumbs.db
 
 # =========================================================
-# Logs
+# Logs / runtime files
 # =========================================================
 *.log
 logs/
+tmp/
+temp/
+*.tmp
 
 # =========================================================
-# Environment / Secrets
+# Secrets / credentials
 # =========================================================
 .env
 .env.*
 secrets/
+credentials/
 *.pem
 *.key
+*.pfx
+*.p12
+*.crt
+*.cer
+*.jks
 
 # =========================================================
-# SQL / Database Artifacts
+# SQL Server / database artifacts
 # =========================================================
 *.bak
+*.bacpac
+*.dacpac
 *.mdf
 *.ldf
+*.ndf
+*.trn
 
 # =========================================================
-# Docker
+# Docker / local infrastructure
 # =========================================================
 docker-data/
 *.tar
 
 # =========================================================
-# Tableau
-# =========================================================
-*.hyper
-*.tde
-*.twbr
-*.twbx~
-Tableau Temp/
-
-# =========================================================
-# Data Files
-# Keep ONLY curated demo datasets
-# =========================================================
-
-# Raw sensitive exports
-data/raw/private/
-data/raw/phi/
-
-# Generated runtime artifacts
-data/temp/
-data/output/
-
-# =========================================================
-# Airflow
-# =========================================================
-airflow/logs/
-airflow/airflow.db
-
-# =========================================================
-# ML Models
-# =========================================================
-*.pkl
-*.joblib
-models/
-
-# =========================================================
-# OS Files
-# =========================================================
-Thumbs.db
-
-# =========================================================
-# Terraform
+# Terraform / cloud state
 # =========================================================
 *.tfstate
 *.tfstate.*
 .terraform/
+.terraform.lock.hcl
 
 # =========================================================
-# Node
+# Airflow local runtime
+# =========================================================
+airflow/logs/
+airflow/airflow.db
+airflow/webserver_config.py
+
+# =========================================================
+# Tableau local artifacts
+# Keep screenshots and documentation, ignore heavy/temp extracts
+# =========================================================
+*.hyper
+*.tde
+*.twbx~
+*.twbr
+Tableau Temp/
+
+# =========================================================
+# ML model artifacts
+# Keep source code, ignore trained binary models
+# =========================================================
+*.pkl
+*.joblib
+*.onnx
+ml/models/*.pkl
+ml/models/*.joblib
+ml/models/*.onnx
+
+# =========================================================
+# Data governance: ignore sensitive/raw/private data
+# Keep curated synthetic/demo datasets only
+# =========================================================
+data/raw/private/
+data/raw/phi/
+data/raw/prod/
+data/raw/client/
+data/temp/
+data/output/
+data/interim/
+
+# Ignore accidental production-style data drops
+*claims_export*
+*member_export*
+*provider_export*
+*phi*
+*PHI*
+*prod*
+*client_extract*
+
+# =========================================================
+# Node / frontend
 # =========================================================
 node_modules/
 
 # =========================================================
-# Coverage / Testing
+# Coverage / testing
 # =========================================================
 .coverage
 htmlcov/
 .pytest_cache/
 
 # =========================================================
-# Keep Important Demo Assets
+# Keep public demo assets
 # =========================================================
 !docs/images/
+!docs/images/*.png
+!docs/images/*.jpg
+!docs/images/*.jpeg
+
 !tableau/data/
-!data/gold/
-!data/silver/
+!tableau/data/*.csv
+
 !data/synthetic/
+!data/synthetic/*.csv
+
+!data/gold/
+!data/gold/*.csv
+
+!data/silver/
+!data/silver/*.csv
