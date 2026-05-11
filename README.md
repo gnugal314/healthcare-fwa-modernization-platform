@@ -265,15 +265,6 @@ Python moves the platform beyond report reproduction. It enables fraud feature e
 | Duplicate Claim Rate | Duplicate claims divided by total claims |
 | Investigation Conversion Rate | Confirmed cases divided by opened investigations |
 
-## Semantic Layer
-
-Semantic views standardize business rules so Tableau, extracts, ad hoc SQL, and client delivery all use the same definitions.
-
-Included examples:
-
-- `sql/views/vw_client_fwa_metrics.sql`
-- `sql/views/vw_provider_risk_summary.sql`
-- `sql/views/vw_geographic_exposure.sql`
 
 ## Semantic Layer
 
