@@ -225,6 +225,50 @@ Included examples:
 - `sql/views/vw_provider_risk_summary.sql`
 - `sql/views/vw_geographic_exposure.sql`
 
+## Semantic Layer
+
+Semantic views standardize business rules so Tableau, extracts, ad hoc SQL, and client delivery all use the same KPI definitions.
+
+These views serve as the governed analytics abstraction layer between the dimensional warehouse and downstream BI/reporting tools.
+
+Included examples:
+
+- `sql/views/vw_client_fwa_metrics.sql`
+- `sql/views/vw_provider_risk_summary.sql`
+- `sql/views/vw_geographic_exposure.sql`
+
+### Client Fraud Exposure Metrics
+
+Enterprise client-level KPI standardization for:
+- suspected fraud exposure
+- recovered dollars
+- stopped payment savings
+- risk score aggregation
+- payer segment analytics
+
+![Client Metrics](docs/images/semantic_client_metrics.png)
+
+### Provider Risk Analytics
+
+Provider-level fraud monitoring and SIU analytics including:
+- provider risk scoring
+- exposure analysis
+- detection volume
+- recovery tracking
+- specialty-level risk analysis
+
+![Provider Risk](docs/images/semantic_provider_risk.png)
+
+### Geographic Fraud Exposure
+
+Regional fraud intelligence and geospatial exposure analysis for:
+- state/county risk monitoring
+- fraud concentration analysis
+- geographic exposure trends
+- regional operational reporting
+
+![Geographic Exposure](docs/images/semantic_geographic_exposure.png)
+
 ## Tableau Modernization
 
 Dashboard examples are included under `/tableau/dashboards`:
