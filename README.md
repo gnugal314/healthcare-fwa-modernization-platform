@@ -56,6 +56,18 @@ Fraud, Waste, and Abuse reporting supports Special Investigations Units, payer o
 | Which fraud schemes are trending? | Time-series metrics + anomaly monitoring |
 | Which providers/pharmacies have highest risk? | Provider risk scoring + ML features |
 
+## Key Enterprise Capabilities
+
+- Enterprise healthcare fraud analytics modernization
+- Medallion architecture implementation
+- Dimensional warehouse modeling
+- Governed semantic KPI layer
+- Tableau-ready analytics architecture
+- HIPAA-aware security design
+- Fraud risk scoring and anomaly detection
+- Synthetic healthcare claims generation
+- CI/CD and orchestration patterns
+
 ## Current State Legacy Architecture
 
 ```mermaid
