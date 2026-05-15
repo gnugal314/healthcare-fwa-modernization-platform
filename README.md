@@ -32,6 +32,11 @@ Tableau Server / Embedded Analytics / Scheduled Distribution
 Secure Client Delivery
 ```
 
+## Disclaimer
+
+All sample data is synthetic and intended for portfolio, demonstration, testing, and architecture planning. Do not use this repository with real PHI without review by security, privacy, compliance, legal, and enterprise architecture teams.
+
+
 ## Platform Demonstration
 
 The platform has been deployed locally using:
@@ -385,6 +390,4 @@ python pipelines/python/etl/silver_to_gold.py
 python pipelines/python/scoring/provider_risk_scoring.py
 ```
 
-## Disclaimer
 
-All sample data is synthetic and intended for portfolio, demonstration, testing, and architecture planning. Do not use this repository with real PHI without review by security, privacy, compliance, legal, and enterprise architecture teams.
